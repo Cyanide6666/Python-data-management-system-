@@ -16,3 +16,9 @@ El sistema cumple con los siguientes pilares de desarrollo:
 - gestion.py: Módulo que contiene la lógica de procesamiento y funciones recursivas.
 - datos.txt: Archivo fuente de datos para pruebas.
 - docs/: Carpeta con la documentación técnica y manuales.
+
+### Autor: 
+Paula Ossandón Erazo - Desarrollador - [Cyanide] (https://github.com/Cyanide6666)
+
+#### Licencia: 
+Este proyecto es de código abierto.
