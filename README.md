@@ -3,14 +3,14 @@
 ## Descripción del proyecto
 Este sistema permite la manipulación de datos de manera eficiente utilizando las mejores prácticas de desarrollo.
 
-##Tecnologías Utilizadas
+## Tecnologías Utilizadas
 Lenguaje: Python 3
 Estructuras de Datos: Uso de listas, diccionarios, tuplas y conjuntos para el manejo eficiente de información
 Estructuras de Control: Implementación de bucles while, condicionales if/else y manejo de excepciones
 Algoritmos: Uso de funciones recursivas para cálculos específicos de nómina
 Modularización: Organización en múltiples archivos .py para mejorar la reusabilidad del código
 
-##Estructuras de datos utilizadas
+## Estructuras de datos utilizadas
 Listas (list): Funcionan como el contenedor dinámico principal para almacenar la colección completa de registros.
 
 Diccionarios (dict): Se utilizan para representar a cada empleado de forma estructurada, almacenando ID, Nombre, Puesto y Salario.
