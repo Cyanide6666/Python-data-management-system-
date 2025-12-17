@@ -1,7 +1,14 @@
 # Python data management system: Sistema de Gestión de Datos de Empleados
 
-## Descripción del proyecto:
+## Descripción del proyecto
 Este sistema permite la manipulación de datos de manera eficiente utilizando las mejores prácticas de desarrollo.
+
+##Tecnologías Utilizadas
+Lenguaje: Python 3
+Estructuras de Datos: Uso de listas, diccionarios, tuplas y conjuntos para el manejo eficiente de información
+Estructuras de Control: Implementación de bucles while, condicionales if/else y manejo de excepciones
+Algoritmos: Uso de funciones recursivas para cálculos específicos de nómina
+Modularización: Organización en múltiples archivos .py para mejorar la reusabilidad del código
 
 ## Características y Funcionalidades
 El sistema cumple con los siguientes pilares de desarrollo:
