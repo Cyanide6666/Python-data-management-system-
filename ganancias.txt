@@ -1,0 +1,12 @@
+Mes,Ganancia_Total
+Enero,6500000
+Febrero,5800000
+Marzo,8200000
+Abril,8200000
+Mayo,8200000
+Junio,9200000
+Julio,8200000
+Agosto,22000000
+Septiembre,10000000
+Octubre,8200000
+Noviembre,9200000

@@ -1,0 +1,8 @@
+ID,Nombre,Puesto,Salario
+1,Juan Perez,Desarrollador,3000000
+2,Maria Rojas,Analista,2000000
+3,Pedro Engel,Tester,1800000
+4, Bruno Ruiz, Desarrollador, 2000000
+5, Paulina Vera, RRHH, 1000000
+6, Maria Rivas, Diseño, 1500000
+7, Marcela Díaz, Soporte, 700000
